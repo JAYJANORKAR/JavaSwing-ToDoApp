@@ -43,7 +43,7 @@ Users can add and delete tasks dynamically using buttons.
 ### Option 1: Using Eclipse or IntelliJ
 1. Create a new Java Project named `ToDoApp`.
 2. Inside the `src` folder, paste the `ToDoApp.java` file.
-3. Click **Run ▶️** to start the application.
+3. Click **Run** to start the application.
 
 ### Option 2: Using VS Code
 1. Install the "Java Extension Pack".
